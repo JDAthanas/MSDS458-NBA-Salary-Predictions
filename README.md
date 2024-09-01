@@ -1,5 +1,5 @@
 # NBA-Salary-Predictions
-Predicting NBA Salaries with Classification
+Predicting NBA Salaries with Classification and GRU Model
 
 ## Final Project for MSDS 458 Deep Learning and Artificial Intelligence
        
