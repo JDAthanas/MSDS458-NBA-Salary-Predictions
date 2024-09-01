@@ -1,2 +1,2 @@
-# NBA-Salary-Pred
+# NBA-Salary-Predictions
 Predicting NBA Salaries with Classification
