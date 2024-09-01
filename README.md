@@ -1,7 +1,7 @@
 # NBA-Salary-Predictions
 Predicting NBA Salaries with Classification
 
-## Final Project for MSDS 457 Sports Management Analytics and MSDS 458 Deep Learning and Artificial Intelligence
+## Final Project for MSDS 458 Deep Learning and Artificial Intelligence
        
 Data:
        
