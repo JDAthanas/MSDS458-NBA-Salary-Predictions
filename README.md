@@ -16,7 +16,7 @@ BLK	TO	PF	PTS	PLUS_MINUS
 
 Experiments: 
 
-There are a total of 6 experiments. Results summary table is in the Research Paper PDF. Experiment 6 (FINAL) is best performing
+There are a total of 6 experiments. Results summary table is in the Research Paper PDF. Experiment 6 (FINAL) is best performing. 
 
 
 Research Paper:
