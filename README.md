@@ -19,7 +19,7 @@ Experiments:
 There are a total of 6 experiments. Results summary table is in the PDF. Experiment 6 (FINAL) is best performing
 
 
-Resaerch Paper:
+Research Paper:
 
 Final paper is Assignment 4_Athanasiadis.pdf file
 
